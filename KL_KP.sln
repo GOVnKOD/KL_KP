@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KL_KP", "KL_KP\KL_KP.pyproj", "{0722732C-5181-41D3-B453-EEB22A24A9AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0722732C-5181-41D3-B453-EEB22A24A9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0722732C-5181-41D3-B453-EEB22A24A9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F50BC1E-F1F8-4368-8FF1-C28928C80C15}
+	EndGlobalSection
+EndGlobal
